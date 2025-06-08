@@ -1,0 +1,10 @@
+gino:
+  name        : "Gino Franco Fazzi"
+  avatar      : "/assets/images/bio-photo.jpg"
+  bio         : "Polymath @ the Intersection of Data, Automation & Environmental Economics | ML-Powered Insight Builder | Python & SQL Fluent"
+  location    : "Copenhagen, Denmark"
+  email       : "gino.franco.fazzi@gmail.com"
+  uri         : "https://ginofazzi.github.io"
+  github      : "ginofazzi"
+  linkedin    : "gino-franco-fazzi"
+  orcid       : "0009-0006-0845-6557"  # optional
