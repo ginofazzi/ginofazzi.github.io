@@ -55,23 +55,23 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author: gino
-  # name   : "Gino Franco Fazzi"
-  # avatar : "/assets/images/bio-photo.jpg"
-  # bio    : "Data Scientist | Polymath @ the Intersection of Data, Automation & Environmental Economics | ML-Powered Insight Builder | Python & SQL Fluent"
-  # links:
-  #   - label: "Website"
-  #     icon: "fas fa-fw fa-link"
-  #     url: "https://"
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/"
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     url: "https://instagram.com/"
+author: 
+  name   : "Gino Franco Fazzi"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Data Scientist | Polymath @ the Intersection of Data, Automation & Environmental Economics | ML-Powered Insight Builder | Python & SQL Fluent"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
