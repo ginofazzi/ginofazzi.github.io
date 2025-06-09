@@ -58,7 +58,7 @@ plugins:
 author: 
   name   : "Gino Franco Fazzi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Scientist | Polymath @ the Intersection of Data, Automation & Environmental Economics | ML-Powered Insight Builder | Python & SQL Fluent"
+  bio    : "Data Scientist · Polymath @ the Intersection of Data, Automation & Environmental Economics · ML-Powered Insight Builder · Python & SQL Fluent"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

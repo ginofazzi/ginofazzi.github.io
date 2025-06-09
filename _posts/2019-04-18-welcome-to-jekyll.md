@@ -1,29 +1,40 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Age misalignment in advertisement"
+date: 2025-06-07T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - Readings
+  - Insights
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+📣 60% of Swiss Millennials follow influencers. Over half of them buy what those influencers recommend.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Let that sink in.
 
-Jekyll also offers powerful support for code snippets:
+Influencer marketing isn’t just a trend it’s becoming a strategic pillar. The study surveyed:
+👨‍💼 218 Marketing Managers
+📲 124 Influencers
+🧑‍🎓 1007 Millennials (aged 13–30)
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+And the takeaway? Influencer marketing is not only widely adopted and perceived as effective, it’s also delivering better ROI than traditional formats, for those using it well.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+But here’s the catch: Marketing managers are often older than the these young audiences, and it shows. For example:
+- 76% of young consumers said Instagram is the platform... only 28% of marketers agreed.
+- 18% of marketers think Facebook still matters to the young... only 2% of young respondents agreed.
+- Marketers picked Roger Federer as the ideal youth influencer (34%)... Gen Z/Millennials? Less than 1% mentioned him.
+- There's also a content disconnect: Marketers focus on real estate, education, economics, and health. Influencers (and their followers) prefer travel (63%), fashion, food, and beauty.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+📌 What can companies do, according to this research?
+- Set incentives tied to real outcomes: changed brand perception, leads, retention.
+- Create a “shadow committee” of young advisors to stay in touch with real audience interests
+
+Influencer marketing can work brilliantly, but only if you understand the cultural code of your audience.
+
+Curious: Have you experienced this kind of disconnect?
+
+Source:
+📑 Clegg, M., Hofstetter, R., Schindler, L., Deubelbeiss, O., Lanz, A., Faltl, M., & Tomczak, T. (2020). Swiss Influencer Marketing Report 2020.
+
+More: 
+[LinkedIn Post]: https://www.linkedin.com/feed/update/urn:li:activity:7337123836175265792/
