@@ -37,4 +37,4 @@ Source:
 📑 Clegg, M., Hofstetter, R., Schindler, L., Deubelbeiss, O., Lanz, A., Faltl, M., & Tomczak, T. (2020). Swiss Influencer Marketing Report 2020.
 
 More: 
-[LinkedIn Post]: https://www.linkedin.com/feed/update/urn:li:activity:7337123836175265792/
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7337123836175265792/)
