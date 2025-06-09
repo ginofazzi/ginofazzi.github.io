@@ -1,8 +1,5 @@
 ---
 title: "Age misalignment in advertisement"
-layout: single
-author_profile: true
-share: true
 date: 2025-06-07T15:34:30-04:00
 categories:
   - blog
