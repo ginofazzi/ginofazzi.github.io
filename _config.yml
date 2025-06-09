@@ -112,10 +112,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# # Social sharing options
-# share:
-#   twitter: false
-#   facebook: true
-#   linkedin: true
-#   reddit: true
-#   pinterest: false
+# Social sharing options
+share:
+  twitter: false
+  facebook: true
+  linkedin: true
+  reddit: true
+  pinterest: false
