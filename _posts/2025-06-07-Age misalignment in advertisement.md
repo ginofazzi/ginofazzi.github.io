@@ -11,6 +11,7 @@ tags:
   - Insights
 ---
 
+Wow, there is a change
 📣 60% of Swiss Millennials follow influencers. Over half of them buy what those influencers recommend.
 
 Let that sink in.
